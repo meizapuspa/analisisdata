@@ -9,9 +9,7 @@ pipenv install
 pipenv shell
 pip install -r requirements.txt
 
-## Run Streamlit App
-
-Untuk menjalankan aplikasi Streamlit, gunakan perintah berikut:
+### Run Steamlit app
 
 ```bash
 streamlit run dashboard.py

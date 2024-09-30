@@ -8,10 +8,4 @@ cd proyek_analisis_data
 pipenv install
 pipenv shell
 pip install -r requirements.txt
-
-## Run Streamlit App
-
-Untuk menjalankan aplikasi Streamlit, gunakan perintah berikut:
-
-```bash
-streamlit run dashboard.py
+--

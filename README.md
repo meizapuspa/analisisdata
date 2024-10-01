@@ -11,5 +11,5 @@ pip install -r requirements.txt
 
 ## Run steamlit app
 ```bash
-streamlit run dashboard.py
+streamlit run dashboardd.py
 ```
